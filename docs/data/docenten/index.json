@@ -2,7 +2,7 @@
     {
       "firstName": "Luk",
       "lastName": "Bouters",
-      "img": "/static/docenten/images/luk.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/luk.png",
       "mainFunction": "Opleidingsdirecteur",
       "extraFunction": "",
       "importantContact": false,
@@ -13,7 +13,7 @@
     {
       "firstName": "Pieter",
       "lastName": "Vandaele",
-      "img": "/static/docenten/images/pieter.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/pieter.png",
       "mainFunction": "Opleidingscoördinator",
       "extraFunction": "",
       "importantContact": false,
@@ -25,7 +25,7 @@
     {
       "firstName": "Maaike",
       "lastName": "Callens",
-      "img": "/static/docenten/images/maaike.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/maaike.png",
       "mainFunction": "Trajectbeheer",
       "extraFunction": "Verantwoordelijke opleiding",
       "importantContact": true,
@@ -36,7 +36,7 @@
     {
       "firstName": "Gudrun",
       "lastName": "Herman",
-      "img": "/static/docenten/images/gudrun.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/gudrun.png",
       "mainFunction": "STUVO- en Ombudsmedewerker",
       "extraFunction": "",
       "importantContact": false,
@@ -47,7 +47,7 @@
     {
       "firstName": "Inge",
       "lastName": "De Canck",
-      "img": "/static/docenten/images/inge-dc.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/inge-dc.png",
       "mainFunction": "Leercoach",
       "extraFunction": "Verantwoordelijke werkplekleren",
       "importantContact": true,
@@ -58,7 +58,7 @@
     {
       "firstName": "Inge",
       "lastName": "Sintobin",
-      "img": "/static/docenten/images/inge-s.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/inge-s.png",
       "mainFunction": "Leercoach",
       "extraFunction": "",
       "importantContact": false,
@@ -69,7 +69,7 @@
     {
       "firstName": "Linda",
       "lastName": "Bogaert",
-      "img": "/static/docenten/images/linda.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/linda.png",
       "mainFunction": "Leercoach",
       "extraFunction": "",
       "importantContact": false,
@@ -80,7 +80,7 @@
     {
       "firstName": "Katrien",
       "lastName": "Vandermarcke",
-      "img": "/static/docenten/images/katrien.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/katrien.png",
       "mainFunction": "Leercoach",
       "extraFunction": "Diversiteitscoach",
       "importantContact": false,
@@ -91,7 +91,7 @@
     {
       "firstName": "Philippe",
       "lastName": "De Pauw - Waterschoot",
-      "img": "/static/docenten/images/philippe.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/philippe.png",
       "mainFunction": "Docent",
       "extraFunction": "Verantwoordelijke Werkplekleren",
       "importantContact": true,
@@ -102,7 +102,7 @@
     {
       "firstName": "Olivier",
       "lastName": "Parent",
-      "img": "/static/docenten/images/olivier.jpg",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/olivier.jpg",
       "mainFunction": "Docent",
       "extraFunction": "Verantwoordelijke curriculum",
       "importantContact": true,
@@ -113,7 +113,7 @@
     {
       "firstName": "Evelien",
       "lastName": "Rutsaert",
-      "img": "/static/docenten/images/evelien.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/evelien.png",
       "mainFunction": "Docent",
       "extraFunction": "",
       "importantContact": false,
@@ -124,7 +124,7 @@
     {
       "firstName": "Frederick",
       "lastName": "Roegiers",
-      "img": "/static/docenten/images/frederick.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/frederick.png",
       "mainFunction": "Docent",
       "extraFunction": "",
       "importantContact": false,
@@ -135,7 +135,7 @@
     {
       "firstName": "Dieter",
       "lastName": "De Weirdt",
-      "img": "/static/docenten/images/dieter.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/dieter.png",
       "mainFunction": "Docent",
       "extraFunction": "",
       "importantContact": false,
@@ -146,7 +146,7 @@
     {
       "firstName": "Lennart",
       "lastName": "Dubois",
-      "img": "/static/docenten/images/lennart.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/lennart.png",
       "mainFunction": "Docent",
       "extraFunction": "",
       "importantContact": false,
@@ -157,7 +157,7 @@
     {
       "firstName": "Claire",
       "lastName": "Geeraerts",
-      "img": "/static/docenten/images/claire.png",
+      "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-louimart3/static/docenten/images/claire.png",
       "mainFunction": "Docent",
       "extraFunction": "",
       "importantContact": false,
