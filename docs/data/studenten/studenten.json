@@ -43,6 +43,7 @@
     "fields": {
       "name_first": "Mathieu",
       "name_last": "De Meue",
+      "url": "https://dl.airtable.com/.attachments/99df140d63d145b5473b812f5eef5820/34ca8990/mathieu.jpg",
       "img": [{
         "id": "attUjEDuc0eQOsFev",
         "url": "https://dl.airtable.com/.attachments/99df140d63d145b5473b812f5eef5820/34ca8990/mathieu.jpg",
@@ -80,6 +81,7 @@
     "fields": {
       "name_first": "Michael",
       "name_last": "Jackson",
+      "url": "https://dl.airtable.com/.attachments/11538898923bb08c789872cc39bad11a/56eb383c/tenor.gif",
       "img": [{
         "id": "attEoRPcWHhefj3uD",
         "url": "https://dl.airtable.com/.attachments/11538898923bb08c789872cc39bad11a/56eb383c/tenor.gif",
@@ -117,6 +119,7 @@
     "fields": {
       "name_first": "Jesse",
       "name_last": "Vandermeersch",
+      "url": "https://dl.airtable.com/.attachments/6013f0a8f86e92eefe8aea5291c9cf16/5ee2be6c/jessevander.jpg",
       "img": [{
         "id": "attn494tia5lil2tl",
         "url": "https://dl.airtable.com/.attachments/6013f0a8f86e92eefe8aea5291c9cf16/5ee2be6c/jessevander.jpg",
@@ -154,6 +157,7 @@
     "fields": {
       "name_first": "Elien",
       "name_last": "Maes",
+      "url": "https://dl.airtable.com/.attachments/f0b333dd1622253585dc963c5de1d62f/d5d4bcfb/20200208_1256551.jpg",
       "img": [{
         "id": "attc3Ty6YfQrbIyAa",
         "url": "https://dl.airtable.com/.attachments/f0b333dd1622253585dc963c5de1d62f/d5d4bcfb/20200208_1256551.jpg",
@@ -188,6 +192,7 @@
     "fields": {
       "name_first": "Louis",
       "name_last": "Martens",
+      "url": "https://dl.airtable.com/.attachments/2ffd41c80a1074dd78b980b433a3314a/d41f8659/inbound3647642866446826804.jpg",
       "img": [{
         "id": "attYvnaLdX7aNScxI",
         "url": "https://dl.airtable.com/.attachments/2ffd41c80a1074dd78b980b433a3314a/d41f8659/inbound3647642866446826804.jpg",
@@ -225,6 +230,7 @@
     "fields": {
       "name_first": "Glenn",
       "name_last": "Dumoulin",
+      "url": "https://dl.airtable.com/.attachments/99a5e94ff961bda1093e0e9c131cfa18/47911327/artevelde_pf_kleiner.jpg",
       "img": [{
         "id": "attm2Vr8sLWOV6aNi",
         "url": "https://dl.airtable.com/.attachments/99a5e94ff961bda1093e0e9c131cfa18/47911327/artevelde_pf_kleiner.jpg",
@@ -263,6 +269,7 @@
     "fields": {
       "name_first": "Jaimy",
       "name_last": "Van Gyseghem",
+      "url": "https://dl.airtable.com/.attachments/2ccabfba30429d931c3b440c90a52b24/bdf66c71/inbound1220083259768684496.jpg",
       "img": [{
         "id": "attWdQ771Ad6w69Xc",
         "url": "https://dl.airtable.com/.attachments/2ccabfba30429d931c3b440c90a52b24/bdf66c71/inbound1220083259768684496.jpg",
@@ -301,6 +308,7 @@
     "fields": {
       "name_first": "Thibaut",
       "name_last": "De Maerteleire",
+      "url": "https://dl.airtable.com/.attachments/71932dc974740d072928fd4f87ccaea4/9aa3012c/schoolfoto.jpg",
       "img": [{
         "id": "att5l4E6FPyx8KDu8",
         "url": "https://dl.airtable.com/.attachments/71932dc974740d072928fd4f87ccaea4/9aa3012c/schoolfoto.jpg",
@@ -339,6 +347,7 @@
     "fields": {
       "name_first": "Alec",
       "name_last": "Meganck",
+      "url": "https://dl.airtable.com/.attachments/a84bcda222068d37257b464c4459356b/0dec790d/F16F6A1A-C949-4FCA-8584-A659AD2E7E55_1_201_a.jpeg",
       "img": [{
         "id": "attTUS3HqjAJ9noyS",
         "url": "https://dl.airtable.com/.attachments/a84bcda222068d37257b464c4459356b/0dec790d/F16F6A1A-C949-4FCA-8584-A659AD2E7E55_1_201_a.jpeg",
@@ -377,6 +386,7 @@
     "fields": {
       "name_first": "Alex",
       "name_last": "Makdis Afrim",
+      "url": "https://dl.airtable.com/.attachments/2bc0455cc5242bc65d9e036afbca4534/d8c227ab/37488579_1935458559826354_816351834179371008_o.jpg",
       "img": [{
         "id": "att6N8oEbKDjpmXQD",
         "url": "https://dl.airtable.com/.attachments/2bc0455cc5242bc65d9e036afbca4534/d8c227ab/37488579_1935458559826354_816351834179371008_o.jpg",
@@ -414,6 +424,7 @@
     "fields": {
       "name_first": "Jarne",
       "name_last": "Van Steendam",
+      "url": "https://dl.airtable.com/.attachments/2b1fd332efbfc90b545b79cd27802f77/103693ac/inbound3410958880606720192.jpg",
       "img": [{
         "id": "attnskHOjR9VsVREg",
         "url": "https://dl.airtable.com/.attachments/2b1fd332efbfc90b545b79cd27802f77/103693ac/inbound3410958880606720192.jpg",
@@ -452,6 +463,7 @@
     "fields": {
       "name_first": "Cédric",
       "name_last": "De Blanck",
+      "url": "https://dl.airtable.com/.attachments/53b8adfc55c515e31b37eb85925c1d9c/5a29cc8d/cedric.jpg",
       "img": [{
         "id": "attmbwR9nkLKswBgN",
         "url": "https://dl.airtable.com/.attachments/53b8adfc55c515e31b37eb85925c1d9c/5a29cc8d/cedric.jpg",
@@ -490,6 +502,7 @@
     "fields": {
       "name_first": "Nina",
       "name_last": "Genitello",
+      "url": "https://dl.airtable.com/.attachments/7191ad54d934b820f2ea99e52e0f9bec/29c5e13d/inbound1633630384672472469.jpg",
       "img": [{
         "id": "attkfg50ctdLPUPTq",
         "url": "https://dl.airtable.com/.attachments/7191ad54d934b820f2ea99e52e0f9bec/29c5e13d/inbound1633630384672472469.jpg",
@@ -527,6 +540,7 @@
     "fields": {
       "name_first": "Romanie",
       "name_last": "Delporte",
+      "url": "https://dl.airtable.com/.attachments/ec3c31811d415afe8bc7ffb7cf18e429/202d82db/018ee4d95e5ac20ae03316b2726419f9.png",
       "img": [{
         "id": "attKGRQpZZo9mWURe",
         "url": "https://dl.airtable.com/.attachments/ec3c31811d415afe8bc7ffb7cf18e429/202d82db/018ee4d95e5ac20ae03316b2726419f9.png",
